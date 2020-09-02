@@ -1,2 +1,2 @@
-public class PageHome extends LoadableComponent {
+public class PageHome {
 }
