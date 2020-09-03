@@ -95,6 +95,20 @@
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
+<!--        <plugin>-->
+<!--          <groupId>org.assertj</groupId>-->
+<!--          <artifactId>assertj-assertions-generator-maven-plugin</artifactId>-->
+<!--          <version>2.2.0</version>-->
+<!--          <configuration>-->
+<!--            <packages>-->
+<!--              <param>your.first.package</param>-->
+<!--              <param>your.second.package</param>-->
+<!--            </packages>-->
+<!--            <classes>-->
+<!--              <param>your.third.package.YourClass</param>-->
+<!--            </classes>-->
+<!--          </configuration>-->
+<!--        </plugin>-->
       </plugins>
     </pluginManagement>
   </build>
