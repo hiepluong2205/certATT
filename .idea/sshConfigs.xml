@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" id="05a2be2a-3bb6-425e-a363-fe24b6755194" port="22" customName="AWS01" nameFormat="CUSTOM">
+        <option name="customName" value="AWS01" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

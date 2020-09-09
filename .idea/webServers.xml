@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8b02fddf-0199-4c27-9b55-dc3a54534c97" name="Local01" url="http://localhost">
+        <fileTransfer mountedRoot="" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="832263c4-903d-4aaf-9d5b-ad8c8c8a3098" name="AWS01">
+        <fileTransfer accessType="SFTP" port="22" sshConfigId="05a2be2a-3bb6-425e-a363-fe24b6755194" sshConfig="AWS01">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

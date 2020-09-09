@@ -1,4 +1,4 @@
-package com.hluong.certATT;
+package com.hluong.certATT.web;
 
 import org.testng.annotations.Test;
 
